@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+# Make Custom Get Clip
+https://itchylabs.com/tools/path-to-bezier
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
